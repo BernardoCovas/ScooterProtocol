@@ -1,4 +1,3 @@
-#include "config.h"
 
 #include "NinebotMessageDefinitions.hpp"
 #include "NinebotMessageInterface.hpp"
