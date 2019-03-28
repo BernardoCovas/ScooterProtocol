@@ -7,6 +7,7 @@ Standard CMake build:
 $ mkdir build
 $ cd build
 $ cmake ..
+$ make install
 ```
 This lib is so small that you can add it as a git submodule instead.
 
